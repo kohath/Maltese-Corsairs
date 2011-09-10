@@ -1,0 +1,5020 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x677f020" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x677f020" />
+  <item nodeId="node-0x677f020">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+The Maltese Corsairs
+An Interactive Fiction
+Release 1 / Serial number 100218 / Inform 7 build 5Z71 (I6/v6.31 lib 6/12N) SD
+
+Hold
+On some occasions, the hold is an empty cavern full of not much beside the sound of waves.  Not this week, though.  Crates and crates--of cinnamon, of all things--line the bulkheads, leaving only a narrow path aft to the brig from the stair leading up to the crew quarters.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="178">NO</temporary>
+    <children>
+      <child nodeId="node-0x67a0450" />
+      <child nodeId="node-0x679eed0" />
+      <child nodeId="node-0x679d4d0" />
+      <child nodeId="node-0x679e2d0" />
+      <child nodeId="node-0x679cc50" />
+      <child nodeId="node-0x679ab50" />
+      <child nodeId="node-0x6799600" />
+      <child nodeId="node-0x6149490" />
+      <child nodeId="node-0x6149310" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149310">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">[We ain&apos;t got a compass, sami.  It&apos;s up, down, inside, outside, starboard, port, fore, and aft here.]
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+  </item>
+  <item nodeId="node-0x6149490">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">[I can&apos;t go that way, amico.  It looks like I can only go up and aft.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149510" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149510">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Brig
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149590" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149590">
+    <command xml:space="preserve">fore</command>
+    <result xml:space="preserve">
+Hold
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149670" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149670">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Brig
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x61496c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x61496c0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Hold
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149740" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149740">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Crew Quarters
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149870" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149870">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Head
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x61499b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x61499b0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Crew Quarters
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149610" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149610">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Mess
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799400" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799400">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Galley
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799480" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799480">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">[I can&apos;t go that way, amico.  It looks like I can only go fore.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799500" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799500">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Mess
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799580" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799580">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">[We ain&apos;t sailin&apos; compass-wise, amico.  It&apos;s starboard, port, fore, and aft when we&apos;re on board, and it looks like I can go fore and aft from here.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="54">YES</temporary>
+  </item>
+  <item nodeId="node-0x6799600">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go up and aft.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799fd0" />
+      <child nodeId="node-0x6799680" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799680">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Brig
+It&apos;s a small room, with a barred cell that takes up half of it.  The walls are a dingy white and the small lamp at the guard&apos;s desk doesn&apos;t do much to enliven the place.   We don&apos;t normally deal in prisoners, so most of the time brig duty is just a chance to sneak in an extra shift of sleep.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799700" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799700">
+    <command xml:space="preserve">fore</command>
+    <result xml:space="preserve">
+Hold
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x67998d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67998d0">
+    <command xml:space="preserve">verbose</command>
+    <result xml:space="preserve">The Maltese Corsairs is now in its &quot;verbose&quot; mode, which always gives long descriptions of locations (even if you&apos;ve been there before).
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6149920" />
+    </children>
+  </item>
+  <item nodeId="node-0x6149920">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Hold
+Crates and crates--of cinnamon, of all things--line the bulkheads, leaving only a narrow path aft to the brig from the stair leading up to the crew quarters.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799920" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799920">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Crew Quarters
+A row of hammocks line the berth deck along the starboard side, which curves to create a moderately open space.  A curtained alcove off the opposite side secludes the cannon master&apos;s bed from casual view. You still haven&apos;t been able to figure out why the captain won&apos;t set up cabins for everyone. 
+
+If you need to hit the head, the door is on the fore wall; the mess is aft, and stairs lead down to the hold and up to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x67999a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67999a0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Cannons
+The gun deck is long with a low ceiling, lit only by dim shafts of sunlight falling on rows of cannons aimed outwards.
+
+Stairs lead down to the crew quarters and up to the deck.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799a20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799a20">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Deck
+The sea stretches out in every direction... but you&apos;re standing on the deck of the Joli, which feels cramped by comparison. (You never did get the hang of how much smaller life aboard ship is.) The entrance to the captain&apos;s hall is aft, and the deck extends in the opposite direction to the fo&apos;c&apos;sle.  You could also climb up to the crows&apos; nest, or go down to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799aa0">
+    <command xml:space="preserve">fore</command>
+    <result xml:space="preserve">
+Forecastle
+You could probably sit here and watch the ship plow the Mediterranean all day, but you likely have other things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799b20">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Deck
+The sea stretches out in every direction... but you&apos;re standing on the deck of the Joli, which feels cramped by comparison. The entrance to the captain&apos;s hall is aft, and the deck extends in the opposite direction to the fo&apos;c&apos;sle.  You could also climb up to the crows&apos; nest, or go down to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799ba0">
+    <command xml:space="preserve">starboard</command>
+    <result xml:space="preserve">
+Lifeboat
+It&apos;s one of those little boats one hopes one never has to find oneself needing... and not just because of how cramped it&apos;d be with most of the crew crammed into it.  On a sunny day off, though, it&apos;s just another place to take in some shut-eye.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799c20">
+    <command xml:space="preserve">port</command>
+    <result xml:space="preserve">
+Deck
+The sea stretches out in every direction... but you&apos;re standing on the deck of the Joli, which feels cramped by comparison. The entrance to the captain&apos;s hall is aft, and the deck extends in the opposite direction to the fo&apos;c&apos;sle.  You could also climb up to the crows&apos; nest, or go down to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799ca0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Lifeboat
+It&apos;s one of those little boats one hopes one never has to find oneself needing... and not just because of how cramped it&apos;d be with most of the crew crammed into it.  On a sunny day off, though, it&apos;s just another place to take in some shut-eye.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799d20">
+    <command xml:space="preserve">p</command>
+    <result xml:space="preserve">
+Deck
+The sea stretches out in every direction... but you&apos;re standing on the deck of the Joli, which feels cramped by comparison. The entrance to the captain&apos;s hall is aft, and the deck extends in the opposite direction to the fo&apos;c&apos;sle.  You could also climb up to the crows&apos; nest, or go down to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799da0">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+The captain generally keeps all his equipment here, more likely than not stacked at random on the grand table at the center of the room.  The walls are also bedecked with miscellany finds from the ship&apos;s travels, including a shelf with a radio that won&apos;t be useful for another hundred years or so.  The captain&apos;s quarters are to starboard and the first mate&apos;s to port.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799780" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799780">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go outside, starboard, port, and fore.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799800" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799800">
+    <command xml:space="preserve">port</command>
+    <result xml:space="preserve">
+First Mate&apos;s Quarters
+Frostbite&apos;s cabin is full of piles of crates, chests, and boxes--so much so it&apos;s hard to see where he sleeps...if he sleeps at all.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799880" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799880">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+The captain generally keeps all his equipment here, more likely than not stacked at random on the grand table at the center of the room.  The walls are also bedecked with miscellany finds from the ship&apos;s travels, including a shelf with a radio that won&apos;t be useful for another hundred years or so.  The captain&apos;s quarters are to starboard and the first mate&apos;s to port.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799e50">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Captain&apos;s Quarters
+In contrast to his hall, Bluebeard&apos;s quarters are spartan and tidy.  A hammock hangs by a porthole starboard, and the chest with the captain&apos;s effects sits beside it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799ed0">
+    <command xml:space="preserve">l me</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+    <children>
+      <child nodeId="node-0x6799f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x6799f50">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Captain&apos;s Quarters
+In contrast to his hall, Bluebeard&apos;s quarters are spartan and tidy.  A hammock hangs by a porthole starboard, and the chest with the captain&apos;s effects sits beside it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+  </item>
+  <item nodeId="node-0x6799fd0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Brig
+It&apos;s a small room, with a barred cell that takes up half of it.  The walls are a dingy white and the small lamp at the guard&apos;s desk doesn&apos;t do much to enliven the place.   We don&apos;t normally deal in prisoners, so most of the time brig duty is just a chance to sneak in an extra shift of sleep.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679aa50" />
+      <child nodeId="node-0x679a050" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a050">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Hold
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a0d0">
+    <command xml:space="preserve">verbose</command>
+    <result xml:space="preserve">The Maltese Corsairs is now in its &quot;verbose&quot; mode, which always gives long descriptions of locations (even if you&apos;ve been there before).
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a150" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a150">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">
+Crew Quarters
+A row of hammocks line the berth deck along the starboard side, which curves to create a moderately open space.  A curtained alcove off the opposite side secludes the cannon master&apos;s bed from casual view. You still haven&apos;t been able to figure out why the captain won&apos;t set up cabins for everyone. 
+
+If you need to hit the head, the door is on the fore wall; the mess is aft, and stairs lead down to the hold and up to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a1d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a1d0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Head
+A place for doing one&apos;s business.  The less said about the condition of this room, the better.  The exit is aft.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a250" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a250">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Crew Quarters
+A row of hammocks line the berth deck along the starboard side, which curves to create a moderately open space.  A curtained alcove off the opposite side secludes the cannon master&apos;s bed from casual view.
+
+If you need to hit the head, the door is on the fore wall; the mess is aft, and stairs lead down to the hold and up to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a2d0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Mess
+A pair of long tables are the main feature of the mess. You can probably count on one hand the number of times the whole crew has sat down to eat together, though. Rock generally leaves a plate or pot of something out for folk, and today is no exception.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a350" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a350">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Galley
+The ship&apos;s kitchen is not very large, and the presence of the cook generally leaves it much more cramped.  Cabinets line the upper and lower walls, and a small bench sits by the entrance, fore.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a3d0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go fore.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a450" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a450">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Mess
+A pair of long tables are the main feature of the mess. Rock generally leaves a plate or pot of something out for folk, and today is no exception.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a4d0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Crew Quarters
+A row of hammocks line the berth deck along the starboard side, which curves to create a moderately open space.  A curtained alcove off the opposite side secludes the cannon master&apos;s bed from casual view.
+
+If you need to hit the head, the door is on the fore wall; the mess is aft, and stairs lead down to the hold and up to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a550" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a550">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Cannons
+The gun deck is long with a low ceiling, lit only by dim shafts of sunlight falling on rows of cannons aimed outwards.
+
+Stairs lead down to the crew quarters and up to the deck.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a5d0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a650" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a650">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Crows&apos; Nest
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a6d0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go down.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a750" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a750">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a7d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a7d0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">
+Cannons
+The gun deck is long with a low ceiling, lit only by dim shafts of sunlight falling on rows of cannons aimed outwards.
+
+Stairs lead down to the crew quarters and up to the deck.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a850" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a850">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a8d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a8d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">[We ain&apos;t sailin&apos; compass-wise, amico.  It&apos;s starboard, port, fore, and aft when we&apos;re aboard ship, and it looks like you can go up, down, inside, starboard, fore, and aft from here.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a950" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a950">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x679a9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679a9d0">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go outside, starboard, port, and fore.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+  </item>
+  <item nodeId="node-0x679aa50">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Brig
+It&apos;s a small room, with a cell that takes up half of it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="59">YES</temporary>
+    <children>
+      <child nodeId="node-0x679aad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679aad0">
+    <command xml:space="preserve">enter cell</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+  </item>
+  <item nodeId="node-0x679ab50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c550" />
+      <child nodeId="node-0x679bcd0" />
+      <child nodeId="node-0x679b7d0" />
+      <child nodeId="node-0x679abd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679abd0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ac50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ac50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679acd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679acd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ad50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ad50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679add0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679add0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.zz</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ae50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ae50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679aed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679aed0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679af50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679af50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679afd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679afd0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b050" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b050">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b0d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b150" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b150">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b1d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b1d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b250" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b250">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b2d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b350" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b350">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b3d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b450" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b450">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b4d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b550" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b550">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b5d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b650" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b650">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b6d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="173">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b750" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b750">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+  </item>
+  <item nodeId="node-0x679b7d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:09 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b850" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b850">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:17 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b8d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b8d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:25 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b950" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b950">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:33 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679b9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679b9d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:41 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ba50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ba50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:49 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bad0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:57 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bb50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bb50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:58 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bbd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bbd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:59 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="132">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bc50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bc50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+10:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="131">YES</temporary>
+  </item>
+  <item nodeId="node-0x679bcd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bd50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bd50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bdd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bdd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x679be50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679be50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="177">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bed0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+9:05 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bf50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bf50">
+    <command xml:space="preserve">z</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679bfd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679bfd0">
+    <command xml:space="preserve">z</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c050" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c050">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:06 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c0d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:07 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c150" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c150">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:24 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c1d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c1d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:25 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c250" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c250">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:26 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c2d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:27 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c350" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c350">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:28 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c3d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:29 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c450" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c450">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c4d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:31 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+  </item>
+  <item nodeId="node-0x679c550">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+9:02 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c5d0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Hold
+[Previous turn undone.]
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c650" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c650">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Hold
+Crates and crates--of cinnamon, of all things--line the bulkheads, leaving only a narrow path aft to the brig from the stair leading up to the crew quarters.
+
+9:02 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c6d0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Hold
+Crates and crates--of cinnamon, of all things--line the bulkheads, leaving only a narrow path aft to the brig from the stair leading up to the crew quarters.
+
+9:03 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c750" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c750">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Hold
+Crates and crates--of cinnamon, of all things--line the bulkheads, leaving only a narrow path aft to the brig from the stair leading up to the crew quarters.
+
+9:04 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c7d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c7d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:11 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c850" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c850">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:19 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c8d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c8d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:27 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c950" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c950">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:35 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679c9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679c9d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:43 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ca50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ca50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:51 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cad0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:59 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cb50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cb50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+10:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cbd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cbd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+10:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+  </item>
+  <item nodeId="node-0x679cc50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:29 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ccd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ccd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cd50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cd50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:59 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cdd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cdd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+10:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ce50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ce50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ced0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ced0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cf50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cf50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679cfd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679cfd0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:00 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d050" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d050">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:30 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d0d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+1:00 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d150" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d150">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+1:30 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d1d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d1d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+2:00 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d250" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d250">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+2:30 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d2d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+3:00 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d350" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d350">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+3:30 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d3d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+4:00 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d450" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d450">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z.z</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+4:30 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="92">YES</temporary>
+  </item>
+  <item nodeId="node-0x679e2d0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e350" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e350">
+    <command xml:space="preserve">purloin zac</command>
+    <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e3d0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Zac
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e450" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e450">
+    <command xml:space="preserve">drop zac</command>
+    <result xml:space="preserve">Dropped.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e4d0">
+    <command xml:space="preserve">x zac</command>
+    <result xml:space="preserve">The cabin boy is an older teenager, awkward in his movements, but he&apos;s a sharp young tiger, and strong enough to handle the odd jobs he gets thrown every day.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e550" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e550">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Brig
+It&apos;s a small room, with a barred cell that takes up half of it.  The walls are a dingy white and the small lamp at the guard&apos;s desk doesn&apos;t do much to enliven the place.   We don&apos;t normally deal in prisoners, so most of the time brig duty is just a chance to sneak in an extra shift of sleep.
+
+Suede sits at the guard&apos;s desk, playing solitaire.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e5d0">
+    <command xml:space="preserve">x suede</command>
+    <result xml:space="preserve">The day guard is a lean and bored-looking fellow, a dark blue tiger with a habit of wearing a short-brimmed visor to shade his eyes, even in the dimness below decks.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e650" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e650">
+    <command xml:space="preserve">suede, hello</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e6d0">
+    <command xml:space="preserve">kiss suede</command>
+    <result xml:space="preserve">Keep your mind on the game.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e750" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e750">
+    <command xml:space="preserve">lewd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e7d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e7d0">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go fore.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e850" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e850">
+    <command xml:space="preserve">sleep</command>
+    <result xml:space="preserve">You aren&apos;t feeling especially drowsy.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e8d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e8d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e950" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e950">
+    <command xml:space="preserve">zz</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e9d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ea50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ea50">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">You&apos;re Jean Waring, a blue tiger.  Folk said you&apos;d never be man enough to be a pirate, but here you are.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ead0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ead0">
+    <command xml:space="preserve">dance</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679eb50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679eb50">
+    <command xml:space="preserve">sit</command>
+    <result xml:space="preserve">(on Suede)
+That&apos;s not something you can sit down on.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ebd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ebd0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Brig
+It&apos;s a small room, with a barred cell that takes up half of it.  The walls are a dingy white and the small lamp at the guard&apos;s desk doesn&apos;t do much to enliven the place. 
+
+Suede sits at the guard&apos;s desk, playing solitaire.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ec50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ec50">
+    <command xml:space="preserve">sit at desk</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ecd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ecd0">
+    <command xml:space="preserve">x desk</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ed50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ed50">
+    <command xml:space="preserve">? what</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679edd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679edd0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+Hold
+You can see Zac here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ee50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ee50">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Crew Quarters
+A row of hammocks line the berth deck along the starboard side, which curves to create a moderately open space.  A curtained alcove off the opposite side secludes the cannon master&apos;s bed from casual view. You still haven&apos;t been able to figure out why the captain won&apos;t set up cabins for everyone. 
+
+If you need to hit the head, the door is on the fore wall; the mess is aft, and stairs lead down to the hold and up to the Cannons.
+
+Fiordaliso is asleep in his hammock.
+
+Laszlo is snoring loudly, asleep in his hammock.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="41">YES</temporary>
+  </item>
+  <item nodeId="node-0x679d4d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:10 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d550" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d550">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:20 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d5d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d650" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d650">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:40 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d6d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+9:50 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d750" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d750">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d7d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d7d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:10 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d850" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d850">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:20 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d8d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d8d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d950" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d950">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:40 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679d9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679d9d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+10:50 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679da50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679da50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679dad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679dad0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:10 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679db50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679db50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:20 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679dbd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679dbd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+11:20 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679dc50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679dc50">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+11:20 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679dcd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679dcd0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:30 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679dd50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679dd50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:40 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ddd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ddd0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+11:50 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679de50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679de50">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:00 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ded0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ded0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:10 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679df50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679df50">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+12:10 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679dfd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679dfd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+12:10 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e050" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e050">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+12:10 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e0d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:20 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e150" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e150">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:30 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e1d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e1d0">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:40 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+    <children>
+      <child nodeId="node-0x679e250" />
+    </children>
+  </item>
+  <item nodeId="node-0x679e250">
+    <command xml:space="preserve">z.z.z.z.z.z.z.z.z.z.</command>
+    <result xml:space="preserve">Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+Time passes.
+
+12:50 pm &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="120">YES</temporary>
+  </item>
+  <item nodeId="node-0x679eed0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">up
+Crew Quarters
+A row of hammocks line the berth deck along the starboard side, which curves to create a moderately open space.  A curtained alcove off the opposite side secludes the cannon master&apos;s bed from casual view. You still haven&apos;t been able to figure out why the captain won&apos;t set up cabins for everyone. 
+
+If you need to hit the head, the door is on the fore wall; the mess is aft, and stairs lead down to the hold and up to the Cannons.
+
+Fiordaliso is asleep in his hammock.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fd50" />
+      <child nodeId="node-0x679f1d0" />
+      <child nodeId="node-0x679ef50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ef50">
+    <command xml:space="preserve">l fiordaliso</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x679efd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679efd0">
+    <command xml:space="preserve">x fiordaliso</command>
+    <result xml:space="preserve">You see nothing special about Fiordaliso.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f050" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f050">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Mess
+A pair of long tables are the main feature of the mess. You can probably count on one hand the number of times the whole crew has sat down to eat together, though. Rock generally leaves a plate or pot of something out for folk, and today is no exception.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f0d0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">
+Galley
+The ship&apos;s kitchen is not very large, and the presence of the cook generally leaves it much more cramped.  Cabinets line the upper and lower walls, and a small bench sits by the entrance, fore.
+
+The cook is a good three hundred fifty pounds, and it&apos;s easy to see why--he never does seem to stop eating.  He makes good food, all right, but he hasn&apos;t got the most pleasant personality; he&apos;ll throw you out of the mess for the slightest thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f150" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f150">
+    <command xml:space="preserve">x roquefort</command>
+    <result xml:space="preserve">You see nothing special about Roquefort.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+  </item>
+  <item nodeId="node-0x679f1d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Head
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f250" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f250">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Crew Quarters
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f2d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Mess
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f350" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f350">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Galley
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f3d0">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f450" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f450">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Mess
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f4d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Crew Quarters
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f550" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f550">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Cannons
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f5d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f650" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f650">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f6d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Poop
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f750" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f750">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f7d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f7d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Lifeboat
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f850" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f850">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f8d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f8d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f950" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f950">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Captain&apos;s Quarters
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679f9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679f9d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fa50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fa50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+First Mate&apos;s Quarters
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fad0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fb50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fb50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Deck
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fbd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fbd0">
+    <command xml:space="preserve">purloin all</command>
+    <result xml:space="preserve">(the Deck)
+[Can&apos;t move Deck: it would contain itself.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fc50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fc50">
+    <command xml:space="preserve">about</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fcd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fcd0">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+  </item>
+  <item nodeId="node-0x679fd50">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">up
+Cannons
+The gun deck is long with a low ceiling, lit only by dim shafts of sunlight falling on rows of cannons aimed outwards.
+
+Stairs lead down to the crew quarters and up to the deck.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fdd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fdd0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">up
+Deck
+The sea stretches out in every direction... but you&apos;re standing on the deck of the Joli, which feels cramped by comparison. (You never did get the hang of how much smaller life aboard ship is.) The entrance to the captain&apos;s hall is aft, and the deck extends in the opposite direction to the fo&apos;c&apos;sle.  You could also climb up to the crows&apos; nest, or go down to the Cannons.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a00d0" />
+      <child nodeId="node-0x679fe50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fe50">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Captain&apos;s Hall
+The captain generally keeps all his equipment here, more likely than not stacked at random on the grand table at the center of the room.  The walls are also bedecked with miscellany finds from the ship&apos;s travels, including a shelf with a radio that won&apos;t be useful for another hundred years or so.  The captain&apos;s quarters are to starboard and the first mate&apos;s to port.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+    <children>
+      <child nodeId="node-0x679fed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679fed0">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">[You can enter the captain&apos;s quarters starboard, or the first mate&apos;s quarters port.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ff50" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ff50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">[You can enter the captain&apos;s quarters starboard, or the first mate&apos;s quarters port.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+    <children>
+      <child nodeId="node-0x679ffd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x679ffd0">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">You&apos;re Jean Waring, a blue tiger.  Folk said you&apos;d never be man enough to be a pirate, but here you are.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0050" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0050">
+    <command xml:space="preserve">x hands</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+  </item>
+  <item nodeId="node-0x67a00d0">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">up
+Crows&apos; Nest
+The view from the crow&apos;s nest is impressive--the blue-green sea in every direction, and the deck below mostly obscured by the rigging.   Unfortunately it&apos;s a tiny space in and of itself, which makes you despise every second duty keeps you up here.
+
+Iñigo sits here, keeping watch.,
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a01d0" />
+      <child nodeId="node-0x67a0150" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0150">
+    <command xml:space="preserve">bacon</command>
+    <result xml:space="preserve">baconThat&apos;s not a verb I recognize.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="18">YES</temporary>
+  </item>
+  <item nodeId="node-0x67a01d0">
+    <command xml:space="preserve">x iñigo</command>
+    <result xml:space="preserve">The day lookout is probably the one  Corsair you find most like yourself: sort of an everyday tiger, the sort you wouldn&apos;t expect to find on a pirate ship.  He&apos;s taken to it a lot better than you have so far though.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0250" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0250">
+    <command xml:space="preserve">x inigo</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a02d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a02d0">
+    <command xml:space="preserve">exit</command>
+    <result xml:space="preserve">But you aren&apos;t in anything at the moment.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0350" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0350">
+    <command xml:space="preserve">quit</command>
+    <result xml:space="preserve">Are you sure you want to quit? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a03d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a03d0">
+    <command xml:space="preserve">y</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+  </item>
+  <item nodeId="node-0x67a0450">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+9:00 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a04d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a04d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0550" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0550">
+    <command xml:space="preserve">wait till 10:00 am</command>
+    <result xml:space="preserve">I only understood you as far as wanting to wait.
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a05d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a05d0">
+    <command xml:space="preserve">wait till 10:00 am</command>
+    <result xml:space="preserve">I only understood you as far as wanting to wait.
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0650" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0650">
+    <command xml:space="preserve">wait until 10:00 am</command>
+    <result xml:space="preserve">I only understood you as far as wanting to wait.
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a06d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a06d0">
+    <command xml:space="preserve">wait 15</command>
+    <result xml:space="preserve">I only understood you as far as wanting to wait.
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0750" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0750">
+    <command xml:space="preserve">wai</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognize.
+
+9:01 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a07d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a07d0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+9:02 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0850" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0850">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:03 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a08d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a08d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+9:04 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a0950" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a0950">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">[You can&apos;t go that way, amico.  It looks like you can only go up and aft.]
+
+9:05 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="58">YES</temporary>
+    <children>
+      <child nodeId="node-0x67a09d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x67a09d0">
+    <command xml:space="preserve">aft</command>
+    <result xml:space="preserve">
+Brig
+It&apos;s a small room, with a barred cell that takes up half of it.  The walls are a dingy white and the small lamp at the guard&apos;s desk doesn&apos;t do much to enliven the place.   We don&apos;t normally deal in prisoners, so most of the time brig duty is just a chance to sneak in an extra shift of sleep.
+
+Suede sits at the guard&apos;s desk, playing solitaire.
+
+9:06 am &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+  </item>
+</Skein>

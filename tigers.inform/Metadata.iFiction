@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>A848C220-DBB1-4BF0-BD1F-EFB855DCD287</ifid>
+            <format>zcode</format>
+        </identification>
+        <bibliographic>
+            <title>Midsummer Day</title>
+            <author>Anonymous</author>
+            <headline>An Interactive Fiction</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2008</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2008-06-11</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>5T18</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>5T18</generatorversion>
+            <originated>2008-06-11</originated>
+        </colophon>
+        <zcode>
+            <serial>080611</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 5T18</compiler>
+        </zcode>
+    </story>
+</ifindex>
