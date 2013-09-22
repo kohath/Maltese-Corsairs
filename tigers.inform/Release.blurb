@@ -1,9 +1,0 @@
-! Blurb file created by NI build 5T18
-variable [RELEASE] = "1"
-storyfile "/Users/muketever/Documents/Inform/tigers.inform/Build/output.z5" include
-metadata "/Users/muketever/Documents/Inform/tigers.inform/Metadata.iFiction" include
-variable [YEAR] = "2008"
-variable [TITLE] = "Midsummer Day"
-variable [AUTHOR] = "Anonymous"
-variable [BLURB] = "A work of interactive fiction."
-variable [IFID] = "A848C220-DBB1-4BF0-BD1F-EFB855DCD287"

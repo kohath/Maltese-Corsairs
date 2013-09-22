@@ -82,15 +82,15 @@ Chapter 3 - Actors
 
 The player is in the Hold.  The description of the player is "You're Jean Waring, a blue tiger.  Folk said you'd never be man enough to be a pirate, but here you are."
 
-Bluebeard is a man in the Captain's Hall.  "Bluebeard stands at his table, examining some maps."  The description of Bluebeard is "The ship's captain is a gruff burly old dark-furred tiger whose eponymous beard, short but thick, is actually closer to black." [Adjectives much?]
+Bluebeard is a man in the Captain's Hall.  "Bluebeard stands at his table, examining some maps."  The description of Bluebeard is "The ship's captain is a gruff burly old dark-furred tiger whose eponymous beard, short but thick, is actually closer to black." [Adjectives much?]  Bluebeard wears a black tricorn, a leather harness,  an eyepatch, black boots, shorts, and a dark vest.  Bluebeard carries a sword and a pistol.
 
-Frostbite is a man in the Forecastle.  "Frostbite is here, leaning against the railing and gazing out at the water."  The description of Frostbite is "The first mate is lean but strong, with ice-blue fur.  He carries himself like a gentleman, but he's certainly dangerous: they say he was just called Frost till he bit another man's leg off in a fight.  Rumor says he's part wolf, but he's always looked all tiger to you."
+Frostbite is a man in the Forecastle.  "Frostbite is here, leaning against the railing and gazing out at the water."  The description of Frostbite is "The first mate is lean but strong, with ice-blue fur.  He carries himself like a gentleman, but he's certainly dangerous: they say he was just called Frost till he bit another man's leg off in a fight.  Rumor says he's part wolf, but he's always looked all tiger to you."  
 
 Roquefort is a man in the Galley.  "Roquefort the cook is here, chopping up [one of]an onion[or]a pile of carrots[or]a slab of meat[at random] with a large cleaver." The description of Roquefort is "The cook is a good three hundred fifty pounds, and it's easy to see why--he never does seem to stop eating.  Rock makes good food, all right, but he hasn't got the most pleasant personality; he'll throw you out of the mess for the slightest offense against his unwritten code of conduct."
 
 Fiordaliso is a man in the Crew Quarters.  "Fiordaliso is asleep in his hammock."  The description of Fiordaliso is "The night lookout is a small, scrawny fellow with scraggly whiskers.  His fur is a dark blue-grey and he usually dresses all in black.  There are three piercings in his right ear.  You may not believe the stories about the first mate being part wolf, but every time you look at Fiord you can't help but think the tiger may be mostly rat."
 
-Iñigo is a man in the Crows' Nest.  "Iñigo sits here, keeping watch."  The description of Iñigo is "The day lookout is probably the one Corsair you find most like yourself: sort of an everyday tiger, the sort you wouldn't expect to find on a pirate ship.  He's taken to it a lot better than you have so far though." Understand "Inigo" or "Innigo" as Iñigo. 
+Iñigo is a man in the Crows' Nest.  "Iñigo sits here, keeping watch."  The description of Iñigo is "The day lookout is probably the one Corsair you find most like yourself: sort of an everyday tiger, the sort you wouldn't expect to find on a pirate ship.  You've taken to it a lot better than he has so far though." Understand "Inigo" or "Innigo" as Iñigo. 
 
 Skye is a man in the Cannons.  "Skye leans against one of the cannons, looking out to sea."  The description of Skye is "The ship's second mate is not a tiger at all, in fact, but a rather stocky lion, somewhat on the older side of middle age.  To his credit, his fur, where it is not beginning to streak with gray, is a rather bright cerulean hue."
 
